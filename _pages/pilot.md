@@ -7,7 +7,6 @@ layout: post
 mermaid: true
 ---
 
-[toc]
 
 **Name:** Issa Fares  **Date:** `2024-19-01`  **Contact:** faresissa22@gmail.com
 
@@ -20,13 +19,13 @@ This report outlines the budget for the pilot study of a vertical farm project. 
 # 2. Budget Overview
 
 The budget is divided into the following main sections:
-**I. Building Structure**
-**II. Nutrient Delivery System**
-**III. Gutter Framework**
-**IV. HVAC System**
-**V. Specialized Lighting System**
-**VI. Overheads**
-**VII. Nutrient solution compounds**
+- **I. Building Structure**
+- **II. Nutrient Delivery System**
+- **III. Gutter Framework**
+- **IV. HVAC System**
+- **V. Specialized Lighting System**
+- **VI. Overheads**
+- **VII. Nutrient solution compounds**
 
 
 Each section includes estimated costs, descriptions of components, and justifications for the expense.
@@ -1428,6 +1427,7 @@ The Employee salary above wont chang much since during the main project since th
 - with a base cost of **₦ 179.87** per Lettuce head, adding a redundancy of 25% for Logistics and maintenance, we arrive at a usable cost estimate of **₦224.8** per head.
 - The retail price of local lettuce varies at about ₦500, with retail atr about ₦400. lets assume the company is willing to sell our premium product at the same retail price so we can penetrate the market, profit is about **₦175.2** or **43.8%**.
 - The large scales total conveyor system is Exactly 25,000 m² with a  daily production of 1,240 NFT gutters and 33 heads per gutter thus the total profit per month is **₦215,075,520** or **$143,383.68**. 
+
 
 # 11. Summary of Total Costs
 
