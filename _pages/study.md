@@ -398,7 +398,7 @@ pressure and velocity allows for the use of only 108 mm Ã˜ (4 inch) pipes, app
 long. The return pipe length was estimated in 60 meters.
 
 
-## 5.0 Illumination System 
+# 5.0 Illumination System 
 
 The analysis of the lighting system is of great importance. It significantly affects the 
 energy consumption of the project, both due to the quantity of lights and duration of the photoperiod,

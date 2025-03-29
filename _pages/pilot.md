@@ -7,41 +7,9 @@ layout: post
 mermaid: true
 ---
 
-
+[toc]
 
 **Name:** Issa Fares  **Date:** `2024-19-01`  **Contact:** faresissa22@gmail.com
-
-
-## Table of Content
-
-1. **Introduction**  
-2. **Budget Overview**  
-3. **Building Structure**  
-    - 3.1 Site Layout  
-    - 3.2 Cost Breakdown  
-4. **Vertical Farm Nutrient Delivery System**  
-    - 4.1 System Overview  
-    - 4.2 Key Design Considerations  
-        - 4.2.1 Nutrient Solution Preparation  
-        - 4.2.2 Cycle Timing and Efficiency  
-        - 4.2.3 Tank Sizing and Engineering  
-        - 4.2.4 Pipe Sizing and Pressure Loss  
-    - 4.3 Logic Control Schema  
-    - 4.4 Cost Breakdown  
-5. **Gutter Framework**  
-    - 5.1 Cost Breakdown  
-6. **HVAC System**  
-    - 6.1 Cost Breakdown  
-7. **Specialized Lighting System**  
-    - 7.1 Cost Breakdown  
-8. **Overheads**  
-    - 8.1 Cost Breakdown  
-9. **Nutrient solution compounds**  
-    - 9.1 Nutrient Requirements/ Fertilization
-    - 9.2 Cost Breakdown 
-10. **Profit Projections**
-11. **Summary of Total Costs**  
-12. **Conclusion**  
 
 
 # 1. Introduction
@@ -50,6 +18,7 @@ This report outlines the budget for the pilot study of a vertical farm project. 
 ---
 
 # 2. Budget Overview
+
 The budget is divided into the following main sections:
 **I. Building Structure**
 **II. Nutrient Delivery System**
@@ -65,7 +34,8 @@ Each section includes estimated costs, descriptions of components, and justifica
 ---
 
 # 3.0 Building Structure
-### Description
+
+## Description
 The building structure will be constructed from the ground up, designed to accommodate vertical farming systems. It will include reinforced foundations, walls, and roofing to support the weight of the farming infrastructure and ensure durability.
 
 ## 3.1 Site layout
@@ -410,7 +380,7 @@ The building structure will be constructed from the ground up, designed to accom
 
 # 4.0 Vertical Farm Nutrient Delivery System
 
-### Description
+## Description
 The Nutrient Delivery System (NDS) is a critical component of the vertical farm. It includes stainless steel tanks, piping, controllers, sensors, and actuators. The system will be integrated with a SCADA (Supervisory Control and Data Acquisition) system using VTScada for real-time monitoring and control.
 
 
@@ -904,7 +874,7 @@ During this process, Tank B continuously pumps the solution to the vertical farm
   </div>
 </div>
 
-### Description
+## Description
 The gutter framework, made of stainless steel, will support the plant beds and ensure proper drainage. It is designed to be durable, easy to clean, capable of reassembly, and resistant to corrosion.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; text-align: center;">
@@ -1030,7 +1000,7 @@ The gutter framework, made of stainless steel, will support the plant beds and e
 ---
 
 # 6.0 HVAC System
-### Description
+## Description
 The HVAC (Heating, Ventilation, and Air Conditioning) system will regulate temperature, humidity, and air quality within the vertical farm. It is essential for maintaining optimal growing conditions for the plants.
 
 ## 6.1 Cost Breakdown
@@ -1149,7 +1119,7 @@ The HVAC (Heating, Ventilation, and Air Conditioning) system will regulate tempe
 ---
 
 # 7.0 Specialized Lighting System
-### Description
+## Description
 The specialized lighting system will provide the correct spectrum of infrared and visible light to promote optimal plant growth. The lights will be energy-efficient and adjustable to meet the needs of different crops.
 
 ## 7.1 Cost Breakdown
@@ -1196,7 +1166,7 @@ The specialized lighting system will provide the correct spectrum of infrared an
 ---
 
 # 8.0 Overheads
-### Description
+## Description
 The selection of personnel for the vertical farm is based on a balance of technical expertise, agricultural knowledge, and operational efficiency. Engineers specializing in fabrication, control systems, and electrical work ensure the structural integrity, automation, and power management of the farm.
 
 ## 8.1 Cost Breakdown
@@ -1270,7 +1240,7 @@ The selection of personnel for the vertical farm is based on a balance of techni
 </table>
 
 # 9.0 Nutrient solution compounds
-### Description
+## Description
 in the following, we shall break down the required compounds for the production of lettuce and use the data to find a suitable fertilizer
 
 ## 9.1 Nutrient Requirements/ Fertilization
@@ -1343,8 +1313,7 @@ Given the total water requirement, the amount of fertilizer needed is:
 
 - 2475 lettuce seed are required. the most suitable size available on the market is the 5000 seed bag of premium Salanova Expertise RZ lettuce at <strong>USD 280</strong>.
 
-
-- The cost of 250 Rockwool Plugs is USD 10. 13 packs should suffice with a little extra for contingency, totaling  **USD 130**
+- The cost of 250 Rockwool Plugs is USD 10. 13 packs should suffice with a little extra for contingency, totaling  **USD 130**.
 
 # 10. Profit Projections
 
@@ -1402,7 +1371,7 @@ The Employee salary above wont chang much since during the main project since th
 - The are used here will be the total area of the main project mentioned above at 25,000 m² 
 <p style="text-align: center;">Price per Area (scaled)= <Strong>₦ 203.52</Strong></p>
 
-### Summary
+#### Summary
 
 <table >
 <caption style=' text-align: center; margin-bottom: 5px; margin-top: 20px;'> <b>Table 12:</b> Budget summary overview</caption>
@@ -1454,7 +1423,7 @@ The Employee salary above wont chang much since during the main project since th
 - With the current Exchange rate of 1,500 as of the time of writing,the total NGN cost per m² stands at ₦ 15,926.62, or ₦ 482.62 per Lettuce head.
 - on the other end, during production when we are fully reliant on solar energy, the Electricity bill could very well be nill, and with our own fertilizer mixture at 5x lower in terms of cost, final cost per m² will become ₦ 5,935.62, or **₦ 179.87** per Premium Lettuce head.
 
-### Projections
+#### Projections
 
 - with a base cost of **₦ 179.87** per Lettuce head, adding a redundancy of 25% for Logistics and maintenance, we arrive at a usable cost estimate of **₦224.8** per head.
 - The retail price of local lettuce varies at about ₦500, with retail atr about ₦400. lets assume the company is willing to sell our premium product at the same retail price so we can penetrate the market, profit is about **₦175.2** or **43.8%**.
