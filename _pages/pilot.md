@@ -1434,95 +1434,100 @@ The Employee salary above wont chang much since during the main project since th
 
 ---
 
-  # 11. Summary of Total Costs
+# 11 Summary of Total Costs
 
-  <table >
-  <caption style=' text-align: center; margin-bottom: 5px; margin-top: 20px;'> <b>Table 12:</b> Budget summary overview</caption>
-      <tr>
-          <th>Section</th>
-          <th>Details</th>
-          <th>USD ($)</th>
-          <th>NGN (₦)</th>
-      </tr>
-      <tr>
-          <td rowspan="2">Building Structure</td>
-          <td>main structure</td>
-          <td>-</td>
-          <td>62,909,300</td>
-      </tr>
-      <tr>
-          <td>furniture and utility</td>
-          <td>-</td>
-          <td>6,021,000</td>
-      </tr>
-      <tr>
-          <td rowspan="4">Nutrient Delivery System</td>
-          <td>Sensors and Actuators Fixed costs</td>
-          <td>8,058</td>
-          <td>-</td>
-      </tr>
-      <tr>
-          <td>Sensors and Actuators with Tradeoffs</td>
-          <td>10,540</td>
-          <td>-</td>
-      </tr>
-      <tr>
-          <td>Stainless steel tank construction</td>
-          <td>-</td>
-          <td>2,437,000</td>
-      </tr>
-      <tr>
-          <td>Reverse Osmosis System</td>
-          <td>-</td>
-          <td>4,000,000</td>
-      </tr>
-      <tr>
-          <td>Gutter Framework</td>
-          <td>vertical farm Gutters unit</td>
-          <td>-</td>
-          <td>11,386,000</td>
-      </tr>
-      <tr>
-          <td>HVAC System</td>
-          <td></td>
-          <td>11,824</td>
-          <td>-</td>
-      </tr>
-      <tr>
-          <td>Specialized Lighting</td>
-          <td></td>
-          <td>21,494</td>
-          <td>-</td>
-      </tr>
-      <tr>
-          <td>Employees</td>
-          <td></td>
-          <td>-</td>
-          <td>7,000,000</td>
-      </tr>
-        <tr>
-          <td>Nutrient solution compounds</td>
-          <td></td>
-          <td>670</td>
-          <td>-</td>
-      </tr>
-      <tr>
-          <th style="text-align:right;">Total</th>
-          <th></th>
-          <th>52,586</th>
-          <th> 93,753,300 </th>
-      </tr>
-  </table>
+### Section Breakdowns
 
-  - With the current Exchange rate of 1,500 as of the time of writing, the **Grand Total** is thus __**$115,088**__ 
+<table >
+<caption style=' text-align: center; margin-bottom: 5px; margin-top: 20px;'> <b>Table 12:</b> Budget summary overview</caption>
+    <tr>
+        <th>Section</th>
+        <th>Details</th>
+        <th>USD ($)</th>
+        <th>NGN (₦)</th>
+    </tr>
+    <tr>
+        <td rowspan="2">Building Structure</td>
+        <td>main structure</td>
+        <td>-</td>
+        <td>62,909,300</td>
+    </tr>
+    <tr>
+        <td>furniture and utility</td>
+        <td>-</td>
+        <td>6,021,000</td>
+    </tr>
+    <tr>
+        <td rowspan="4">Nutrient Delivery System</td>
+        <td>Sensors and Actuators Fixed costs</td>
+        <td>8,058</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>Sensors and Actuators with Tradeoffs</td>
+        <td>10,540</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>Stainless steel tank construction</td>
+        <td>-</td>
+        <td>2,437,000</td>
+    </tr>
+    <tr>
+        <td>Reverse Osmosis System</td>
+        <td>-</td>
+        <td>4,000,000</td>
+    </tr>
+    <tr>
+        <td>Gutter Framework</td>
+        <td>vertical farm Gutters unit</td>
+        <td>-</td>
+        <td>11,386,000</td>
+    </tr>
+    <tr>
+        <td>HVAC System</td>
+        <td></td>
+        <td>11,824</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>Specialized Lighting</td>
+        <td></td>
+        <td>21,494</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>Employees</td>
+        <td></td>
+        <td>-</td>
+        <td>7,000,000</td>
+    </tr>
+      <tr>
+        <td>Nutrient solution compounds</td>
+        <td></td>
+        <td>670</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <th style="text-align:right;">Total</th>
+        <th></th>
+        <th>52,586</th>
+        <th> 93,753,300 </th>
+    </tr>
+</table>
 
-
-  ---
-
-  # 12. Conclusion
-  This budget report provides a detailed breakdown of the costs associated with the vertical farm pilot study. The proposed systems and structures are designed to ensure efficiency, durability, and scalability. The next steps involve finalizing the budget, securing funding, and proceeding with the construction and implementation of the pilot study.
+- With the current Exchange rate of 1,500 as of the time of writing, the **Grand Total** is thus __**$115,088**__ 
 
 
+---
+
+# 12. Conclusion
+
+###
+
+This budget report provides a detailed breakdown of the costs associated with the vertical farm pilot study. The proposed systems and structures are designed to ensure efficiency, durability, and scalability. The next steps involve finalizing the budget, securing funding, and proceeding with the construction and implementation of the pilot study.
 
 
-  ---
+
+
+---
