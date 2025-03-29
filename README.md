@@ -4,8 +4,13 @@ title: The Green Room
 permalink: /
 ---
 
-# 🌱 THE-GREEN-ROOM
-*Sustainable Vertical Farming Solutions*
+<div style="display: flex; justify-content: center; align-items: center; text-align: center;">
+  <div>
+  <p >
+    <img src="{{ site.baseurl }}/assets/pilot_images/logo.jpg"  style="width: 90%; height: auto;">
+  </p>
+  </div>
+</div>
 
 # Vertical Farm Project Documentation
 
