@@ -466,7 +466,7 @@ During this process, Tank B continuously pumps the solution to the vertical farm
   The flow rate at the pipe network outlet to the gutter system was calculated and fixed as a constant during the **fluid mechanics** analysis. This resulted in a clear relationship between **pipe diameter** and **pump size**. To visualize this relationship, a graph was generated for each pipe, considering only those diameters readily available in the market. This graph served as a critical tool for selecting the most suitable pipe and associated pump ratings, ensuring that the chosen components would operate harmoniously and cost-effectively to achieve the desired performance at the lowest cost possible. Below is the result for each of the pipes/pipe systems.
 
 
-  ###  Refilling Tank A
+  **Refilling Tank A**
   <div style="display: flex; justify-content: center; align-items: center; text-align: center;">
     <div>
     <p >
@@ -494,7 +494,7 @@ During this process, Tank B continuously pumps the solution to the vertical farm
 
 
 
-  ###  Pumping from Tank A to Reservoir (Tank B)  
+  **Pumping from Tank A to Reservoir (Tank B)** 
 
   <div style="display: flex; justify-content: center; align-items: center; text-align: center;">
     <div>
@@ -520,7 +520,7 @@ During this process, Tank B continuously pumps the solution to the vertical farm
     - Power: 30.35 W
 
 
-  ### Reservoir to Gutter Units
+  **Reservoir to Gutter Units**
 
   - The pipe network from reservoir Tank B to the gutter units involves multiple connections and pipe diameters.
   - Calculations were performed similarly, but with additional complexity due to the branching network, here the first pipe is called pipe A with subsequent branching following the pattern alphabetically.
@@ -562,7 +562,7 @@ During this process, Tank B continuously pumps the solution to the vertical farm
 
 
 
-  ### Precautions
+  **Precautions**
 
   1. **Safety Margins**: Elevation values were increased to account for potential variations in pressure loss, ensuring reliable operation.
   2. **Material Selection**: Using corrosion-resistant materials (stainless steel) for tanks to withstand nutrient solutions.
@@ -1238,6 +1238,8 @@ The selection of personnel for the vertical farm is based on a balance of techni
     </tbody>
 </table>
 
+---
+
 # 9.0 Nutrient solution compounds
 ## Description
 in the following, we shall break down the required compounds for the production of lettuce and use the data to find a suitable fertilizer
@@ -1313,6 +1315,8 @@ Given the total water requirement, the amount of fertilizer needed is:
 - 2475 lettuce seed are required. the most suitable size available on the market is the 5000 seed bag of premium Salanova Expertise RZ lettuce at <strong>USD 280</strong>.
 
 - The cost of 250 Rockwool Plugs is USD 10. 13 packs should suffice with a little extra for contingency, totaling  **USD 130**.
+
+---
 
 # 10. Profit Projections
 
@@ -1428,96 +1432,97 @@ The Employee salary above wont chang much since during the main project since th
 - The retail price of local lettuce varies at about ₦500, with retail atr about ₦400. lets assume the company is willing to sell our premium product at the same retail price so we can penetrate the market, profit is about **₦175.2** or **43.8%**.
 - The large scales total conveyor system is Exactly 25,000 m² with a  daily production of 1,240 NFT gutters and 33 heads per gutter thus the total profit per month is **₦215,075,520** or **$143,383.68**. 
 
+---
 
-# 11. Summary of Total Costs
+  # 11. Summary of Total Costs
 
-<table >
-<caption style=' text-align: center; margin-bottom: 5px; margin-top: 20px;'> <b>Table 12:</b> Budget summary overview</caption>
-    <tr>
-        <th>Section</th>
-        <th>Details</th>
-        <th>USD ($)</th>
-        <th>NGN (₦)</th>
-    </tr>
-    <tr>
-        <td rowspan="2">Building Structure</td>
-        <td>main structure</td>
-        <td>-</td>
-        <td>62,909,300</td>
-    </tr>
-    <tr>
-        <td>furniture and utility</td>
-        <td>-</td>
-        <td>6,021,000</td>
-    </tr>
-    <tr>
-        <td rowspan="4">Nutrient Delivery System</td>
-        <td>Sensors and Actuators Fixed costs</td>
-        <td>8,058</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>Sensors and Actuators with Tradeoffs</td>
-        <td>10,540</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>Stainless steel tank construction</td>
-        <td>-</td>
-        <td>2,437,000</td>
-    </tr>
-    <tr>
-        <td>Reverse Osmosis System</td>
-        <td>-</td>
-        <td>4,000,000</td>
-    </tr>
-    <tr>
-        <td>Gutter Framework</td>
-        <td>vertical farm Gutters unit</td>
-        <td>-</td>
-        <td>11,386,000</td>
-    </tr>
-    <tr>
-        <td>HVAC System</td>
-        <td></td>
-        <td>11,824</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>Specialized Lighting</td>
-        <td></td>
-        <td>21,494</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>Employees</td>
-        <td></td>
-        <td>-</td>
-        <td>7,000,000</td>
-    </tr>
+  <table >
+  <caption style=' text-align: center; margin-bottom: 5px; margin-top: 20px;'> <b>Table 12:</b> Budget summary overview</caption>
       <tr>
-        <td>Nutrient solution compounds</td>
-        <td></td>
-        <td>670</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <th style="text-align:right;">Total</th>
-        <th></th>
-        <th>52,586</th>
-        <th> 93,753,300 </th>
-    </tr>
-</table>
+          <th>Section</th>
+          <th>Details</th>
+          <th>USD ($)</th>
+          <th>NGN (₦)</th>
+      </tr>
+      <tr>
+          <td rowspan="2">Building Structure</td>
+          <td>main structure</td>
+          <td>-</td>
+          <td>62,909,300</td>
+      </tr>
+      <tr>
+          <td>furniture and utility</td>
+          <td>-</td>
+          <td>6,021,000</td>
+      </tr>
+      <tr>
+          <td rowspan="4">Nutrient Delivery System</td>
+          <td>Sensors and Actuators Fixed costs</td>
+          <td>8,058</td>
+          <td>-</td>
+      </tr>
+      <tr>
+          <td>Sensors and Actuators with Tradeoffs</td>
+          <td>10,540</td>
+          <td>-</td>
+      </tr>
+      <tr>
+          <td>Stainless steel tank construction</td>
+          <td>-</td>
+          <td>2,437,000</td>
+      </tr>
+      <tr>
+          <td>Reverse Osmosis System</td>
+          <td>-</td>
+          <td>4,000,000</td>
+      </tr>
+      <tr>
+          <td>Gutter Framework</td>
+          <td>vertical farm Gutters unit</td>
+          <td>-</td>
+          <td>11,386,000</td>
+      </tr>
+      <tr>
+          <td>HVAC System</td>
+          <td></td>
+          <td>11,824</td>
+          <td>-</td>
+      </tr>
+      <tr>
+          <td>Specialized Lighting</td>
+          <td></td>
+          <td>21,494</td>
+          <td>-</td>
+      </tr>
+      <tr>
+          <td>Employees</td>
+          <td></td>
+          <td>-</td>
+          <td>7,000,000</td>
+      </tr>
+        <tr>
+          <td>Nutrient solution compounds</td>
+          <td></td>
+          <td>670</td>
+          <td>-</td>
+      </tr>
+      <tr>
+          <th style="text-align:right;">Total</th>
+          <th></th>
+          <th>52,586</th>
+          <th> 93,753,300 </th>
+      </tr>
+  </table>
 
-- With the current Exchange rate of 1,500 as of the time of writing, the **Grand Total** is thus __**$115,088**__ 
+  - With the current Exchange rate of 1,500 as of the time of writing, the **Grand Total** is thus __**$115,088**__ 
 
 
----
+  ---
 
-# 12. Conclusion
-This budget report provides a detailed breakdown of the costs associated with the vertical farm pilot study. The proposed systems and structures are designed to ensure efficiency, durability, and scalability. The next steps involve finalizing the budget, securing funding, and proceeding with the construction and implementation of the pilot study.
-
-
+  # 12. Conclusion
+  This budget report provides a detailed breakdown of the costs associated with the vertical farm pilot study. The proposed systems and structures are designed to ensure efficiency, durability, and scalability. The next steps involve finalizing the budget, securing funding, and proceeding with the construction and implementation of the pilot study.
 
 
----
+
+
+  ---
