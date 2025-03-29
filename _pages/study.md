@@ -1,6 +1,5 @@
 ---
-title: Main Project Study
-permalink: /
+title: Project Study
 author: Issa Fares 
 date: 2024-01-19
 category: Jekyll
