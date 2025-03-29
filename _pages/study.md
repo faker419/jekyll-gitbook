@@ -1,8 +1,8 @@
 ---
-title: The Green Room
+title: Main Project Study
 permalink: /
 author: Issa Fares 
-date: 2024-19-01
+date: 2024-01-19
 category: Jekyll
 layout: home
 mermaid: true

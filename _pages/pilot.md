@@ -1,11 +1,12 @@
 ---
-title: Vertical Farm Pilot Study - Budget Report
+title: Pilot Study - Budget Report
 author: Issa Fares 
 date: 2024-01-19
 category: Jekyll
 layout: post
 mermaid: true
 ---
+
 
 
 **Name:** Issa Fares  **Date:** `2024-19-01`  **Contact:** faresissa22@gmail.com
