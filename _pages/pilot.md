@@ -1320,7 +1320,7 @@ Given the total water requirement, the amount of fertilizer needed is:
 
 # 10. Profit Projections
 
-### Description
+## Description
 
 In the following analysis, the projected profits for both the pilot-scale and main-scale projects will be estimated by considering four key operating costs:
 
