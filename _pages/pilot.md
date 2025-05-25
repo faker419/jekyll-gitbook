@@ -1434,9 +1434,7 @@ The Employee salary above wont chang much since during the main project since th
 
 ---
 
-# 11 Summary of Total Costs
-
-### Section Breakdowns
+# 11.0 Summary of Total Costs
 
 <table >
 <caption style=' text-align: center; margin-bottom: 5px; margin-top: 20px;'> <b>Table 12:</b> Budget summary overview</caption>
@@ -1521,9 +1519,7 @@ The Employee salary above wont chang much since during the main project since th
 
 ---
 
-# 12. Conclusion
-
-###
+# 12.0 Conclusion
 
 This budget report provides a detailed breakdown of the costs associated with the vertical farm pilot study. The proposed systems and structures are designed to ensure efficiency, durability, and scalability. The next steps involve finalizing the budget, securing funding, and proceeding with the construction and implementation of the pilot study.
 
