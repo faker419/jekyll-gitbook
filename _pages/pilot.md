@@ -1318,7 +1318,7 @@ Given the total water requirement, the amount of fertilizer needed is:
 
 ---
 
-# 10. Profit Projections
+# 10.Cost & Profit Projections
 
 ## Description
 
@@ -1333,34 +1333,34 @@ Since most of these costs have already been estimated, the next step is simply t
 **Note:** The attached video (also available <a href="{{ site.baseurl }}/assets/pilot_images/static_vs_dynamic.mp4" download="static_vs_dynamic.mp4">Here</a>) illustrates the key differences between batch-based lettuce production (pilot scale) and a conveyor belt system (main scale). While batch production is ahead by one complete plant life cycle, this advantage is outweighed by logistical benefits. A continuous daily supply of smaller lettuce increments, rather than a full harvest every 42 days, simplifies sales operations and optimizes storage space.
 Additionally, using conveyor systems in series allows for dynamic spacing between NFT gutters. Initially, the gutters are placed closely together since young lettuce plants require minimal space. As the conveyor moves forward, the spacing gradually increases, ensuring optimal use of the growing area. In contrast, static batch production requires gutters to be positioned at their maximum spacing from the start, even when the plants are still in the early growth stages. This makes the conveyor system a more space-efficient approach.
 
-#### Plant seeds and nutrients
+## 10.1 Plant seeds and nutrients
 - The cost of 5000 seed bag of premium Salanova Expertise RZ lettuce is USD 280 , with 33 heads per square meter, the price contribution per m² is **USD 1.848**.
 
 - The cost of 250 Rockwool Plugs is USD 10, thus the price per head is $0.04. with 33 heads per m², the contributed cost stands at **USD 1.32**
 
 - The cost estimate for of th far end highest quality grade pre-made fertilizer came to $245 for 2,450 Lettuce heads encompassing 75 m², bringing th price per area to **USD 3.267**.
 
-#### Electricity
+## Electricity
 
-##### Total Power Consumption per Hour:
+### 10.2 Total Power Consumption per Hour:
 - Each LED light consumes 88 watts.
 - Total power for 42 lights:
 
 <p style="text-align: center;">42 lights × 88 watts = 3,696 watts = 3.696 kW</p>
 
 
-##### Daily energy consumption:
+### Daily energy consumption:
 - The lights run for 14 hours per day.
 - Daily energy consumption:
 
 <p style="text-align: center;">3.696 kW × 14 hours = 51.744 kWh/day</p>
 
-##### Total Energy Consumption Over 42 Days
+### Total Energy Consumption Over 42 Days
 - Total energy consumption:
 
 <p style="text-align: center;">51.744 kWh/day × 42 days = 2,173.248 kWh</p>
 
-##### Total Electricity Cost
+### Total Electricity Cost
 - Electricity rate: ₦209.5/kWh.
 -  Total cost:
 
@@ -1368,13 +1368,13 @@ Additionally, using conveyor systems in series allows for dynamic spacing betwee
 
 <p style="text-align: center;">Price per Area = <Strong>₦ 6,070.6</Strong></p>
 
-#### Overheads
+## 10.3 Overheads
 The Employee salary above wont chang much since during the main project since these are specialized personnel while the rest of the staff are mostly Labourers or in the security team. for safety purposes, 100% cost shall still be added on top of the current monthly expenditure of ₦ 1,590,000, bringing the sum of salaries per month to ₦ 3,180,000 or per a complete cycle (48 days) to **₦ 5,088,000**.
 
 - The are used here will be the total area of the main project mentioned above at 25,000 m² 
 <p style="text-align: center;">Price per Area (scaled)= <Strong>₦ 203.52</Strong></p>
 
-#### Summary
+## 10.4 Summary
 
 <table >
 <caption style=' text-align: center; margin-bottom: 5px; margin-top: 20px;'> <b>Table 12:</b> Budget summary overview</caption>
@@ -1426,7 +1426,7 @@ The Employee salary above wont chang much since during the main project since th
 - With the current Exchange rate of 1,500 as of the time of writing,the total NGN cost per m² stands at ₦ 15,926.62, or ₦ 482.62 per Lettuce head.
 - on the other end, during production when we are fully reliant on solar energy, the Electricity bill could very well be nill, and with our own fertilizer mixture at 5x lower in terms of cost, final cost per m² will become ₦ 5,935.62, or **₦ 179.87** per Premium Lettuce head.
 
-#### Projections
+## 10.5 Projections
 
 - with a base cost of **₦ 179.87** per Lettuce head, adding a redundancy of 25% for Logistics and maintenance, we arrive at a usable cost estimate of **₦224.8** per head.
 - The retail price of local lettuce varies at about ₦500, with retail atr about ₦400. lets assume the company is willing to sell our premium product at the same retail price so we can penetrate the market, profit is about **₦175.2** or **43.8%**.
