@@ -1340,27 +1340,27 @@ Additionally, using conveyor systems in series allows for dynamic spacing betwee
 
 - The cost estimate for of th far end highest quality grade pre-made fertilizer came to $245 for 2,450 Lettuce heads encompassing 75 m², bringing th price per area to **USD 3.267**.
 
-## Electricity
+## 10.2 Electricity
 
-### 10.2 Total Power Consumption per Hour:
+**Total Power Consumption per Hour:**
 - Each LED light consumes 88 watts.
 - Total power for 42 lights:
 
 <p style="text-align: center;">42 lights × 88 watts = 3,696 watts = 3.696 kW</p>
 
 
-### Daily energy consumption:
+**Daily energy consumption:**
 - The lights run for 14 hours per day.
 - Daily energy consumption:
 
 <p style="text-align: center;">3.696 kW × 14 hours = 51.744 kWh/day</p>
 
-### Total Energy Consumption Over 42 Days
+**Total Energy Consumption Over 42 Days**
 - Total energy consumption:
 
 <p style="text-align: center;">51.744 kWh/day × 42 days = 2,173.248 kWh</p>
 
-### Total Electricity Cost
+**Total Electricity Cost:**
 - Electricity rate: ₦209.5/kWh.
 -  Total cost:
 
